@@ -36,9 +36,13 @@
       }
     },
 
-    "settings": {
-      "title": "Paramètres",
-      "logout": "Déconnecter"
-    }
-  }
-}
+    "settings": { 
+41       "title": "Paramètre", 
+42       "logout": "Déconnexion", 
+43       "casperDescription":  "Un abonnement d'api Casper est nécessaire pour accéder aux services de Snapchat. Voir le site SwiftSnapper.", 
+44       "casperApiToken":  "Casper Api Token", 
+45       "casperApiSecret":  "Casper Api Secret" 
+46     } 
+47   } 
+48 } 
+
